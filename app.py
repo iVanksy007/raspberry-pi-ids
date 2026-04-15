@@ -18,7 +18,7 @@ import urllib.request
 import json
 
 # ── 1. Load model ─────────────────────────────────────────────────────────────
-BASE = '/home/ivan/pi/FinalYearProject IDS/models/'
+BASE = '/home/ivan/pi/FYP.IDS/models/'
 
 print("Loading model...")
 model         = joblib.load(BASE + 'random_forest.pkl')
