@@ -38,7 +38,7 @@ blocked_ips       = set()
 # ── 3. Email alert config ─────────────────────────────────────────────────────
 EMAIL_ENABLED   = True
 EMAIL_SENDER    = 'iv.stoyanov13@gmail.com'
-EMAIL_PASSWORD  = '************'
+EMAIL_PASSWORD  = '**** **** ****'
 EMAIL_RECEIVER  = 'is9038y@gre.ac.uk'
 last_email_time = 0
 
